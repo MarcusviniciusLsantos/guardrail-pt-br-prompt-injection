@@ -1,0 +1,4 @@
+openai>=2.32.0
+pandas>=2.2.0,<3.0
+huggingface-hub>=0.25.0
+vllm>=0.8.5
