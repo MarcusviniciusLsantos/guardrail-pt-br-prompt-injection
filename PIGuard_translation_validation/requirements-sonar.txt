@@ -1,0 +1,4 @@
+torch
+sacrebleu
+sonar-space
+fairseq2

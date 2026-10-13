@@ -1,0 +1,6 @@
+torch
+transformers==4.46.3
+sacrebleu
+sonar-space
+fairseq2
+unbabel-comet==2.2.7
